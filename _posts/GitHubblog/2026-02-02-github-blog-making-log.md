@@ -34,6 +34,15 @@ tags: [github-pages, jekyll, 블로그]
 전에 저장소는 만들어놔서 바로 템플릿으로 갔다.
 
 ## 템플릿 가져오기
-시작부터 챗지피티보고 막혀서 친구한테 템플릿을 추천 받았다.
+
+이미 아무것도 없는 상태에서 시작하다가 안했기때문에
+기본 구조가 있는 템플릿을 쓰는 게 낫겠다 싶어서 템플릿을 찾았다.
+사실 시작부터 챗지피티보고 막혀서 친구한테 템플릿을 추천 받았다.
 https://github.com/topics/jekyll-theme
+
+초록색 Use this template 클릭
+
+Repository name → 내아이디.github.io
+
+Create repository
 
