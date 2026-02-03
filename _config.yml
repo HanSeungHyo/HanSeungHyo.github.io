@@ -2,18 +2,18 @@
 title: HanSeungHyo # site title
 description: >- # site description
   한줄 소개
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  근데 이거 어디뜨는거
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/ image 경로
+repo: https://hanseunghyo.github.io/ # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: HAN SEUNGHYO # author name
   bio: >- # tell to the world
-    내소개하 <a href="https://hanseunghyo.github.io/" target="_blank" rel="noopener">@github</a>.
+    내소개하래
   username: username # general username
   github: HanSeungHyo # github username
   twitter: twitter_username # twitter username
@@ -84,7 +84,7 @@ exclude:
   - klise-*.gem
   - klise.gemspec
 
-# Plugins
+# Plugins jekyll-postfiles 플러그인
 plugins:
   - jekyll-feed
   - jekyll-sitemap
