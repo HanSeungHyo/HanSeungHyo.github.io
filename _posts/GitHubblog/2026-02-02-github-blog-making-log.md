@@ -52,7 +52,7 @@ Create fork
 
 파일이 많았는데 암튼 모르겠으니까 챗지피티한테 도움을 요청했다
 
-##GitHub Pages 설정
+## GitHub Pages 설정
 
 1. 저장소
 내아이디.github.io
@@ -60,24 +60,18 @@ Create fork
 2. 상단 메뉴에서 Settings
 (코드 있는 탭들 옆에 있음)
 
-3.왼쪽 메뉴에서 Pages
+3. 왼쪽 메뉴에서 Pages
 (Code and automation 쪽 아래에 있음)
 
 4. Pages 설정
 Source
-
 Deploy from a branch 선택
-
 Branch
-
 Branch: main(or master)
 
 Folder:
-
 보통 / (root)
-
 만약 테마 뼈대에 docs 폴더가 있으면  /docs
-
 모르겠으면 일단 / (root) 선택
 
 - `main` 브랜치는 없고
@@ -124,7 +118,3 @@ tags: [github-pages, jekyll, 블로그]
 글 어떻게 쓸까 고민했는데 그냥 저렇게 쓰고
 포폴용으로 나중에 다시 정리하라고 해서 이렇게 쓰고있다.
 챗지피티가 계속 쓰는 게 더 중요하다고 쓰란다.
-
-일단 만들었으니,
-천천히 채워가 보자.
-
