@@ -1,8 +1,7 @@
 # Site settings
 title: HanSeungHyo # site title
 description: >- # site description
-  한줄 소개
-  근데 이거 어디뜨는거
+  개발 공부를 하며 배운 내용을 기록하는 블로그입니다.
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/ image 경로
@@ -13,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: HAN SEUNGHYO # author name
   bio: >- # tell to the world
-    내소개하래
+    개발 공부를 하며 배운 내용을 기록하는 블로그입니다.
   username: username # general username
   github: HanSeungHyo # github username
   twitter: twitter_username # twitter username
