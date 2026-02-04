@@ -1,8 +1,8 @@
 ---
 title: "깃허브 블로그 제작과정"
 date: 2026-02-02
-categories: [Blog, GitHub]
-tags: [github-pages, jekyll, 블로그]
+categories: [GitHubblog]
+tags: [github-pages, jekyll, blog]
 ---
 
 2년동안 저장소만 만들고 어떻게 해야될지 몰라서 방치하던 깃허브 블로그
