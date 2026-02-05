@@ -6,7 +6,7 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-뭐라고 쓰는게 좋을까요<a href="(https://hanseunghyo.github.io/) target="_blank" rel="noopener">녹차</a>,
+뭐라고 쓰는게 좋을까요<a href="https://github.com/HanSeungHyo" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; 그대로도 못들고와서 몇번씩수정하
 
 **may u needs ✨**
 
