@@ -5,9 +5,24 @@ categories: [GitHubblog]
 tags: [github-pages, jekyll, blog]
 slug: github-blog-first
 ---
+
 아니 대충했다고 포스팅이 다 하나로 통일되고 있네
-slug: github-blog-first추가함
+slug: github-blog-first추가함 이걸로 분리가능하데 근데 퍼스트가 아니잖아e: "깃허브 블로그"
+date: 2026-02-05
+categories: [GitHubblog]
+tags: [github-pages, jekyll, blog]
+slug: github-blog-first
+---
+
+아니 대충했다고 포스팅이 다 하나로 통일되고 있네
+slug: github-blog-first추가함 이걸로 분리가능하데 근데 퍼스트가 아니잖아
+
+대충 방치한지 5일 됬다
+
 더 귀찮아서 안쓰기 전에 일단 암거나 쓰면 나중에 수정하겠지라는 마음으로 쓰기
+이때도 귀찮아서 안쓰기전에 쓰겟지했는데 손도 안됨
+
+아 너무 귀찮아
 
 자꾸 커밋하면 잔디가 안심겨서 슬퍼서 잔디 심고싶어서 찾아댕기다가 
 원인을 찾았다
