@@ -6,8 +6,9 @@ tags: [github-pages, jekyll, blog]
 slug: github-blog-first
 ---
 
-정처기를 풀다가 
+정처기를 풀다가 코드가 나와서 
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -21,3 +22,4 @@ int main() {
 
     printf("%d", a[9]);
 }
+```
