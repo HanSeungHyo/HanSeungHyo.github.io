@@ -6,13 +6,6 @@ tags: [github-pages, jekyll, blog]
 slug: github-blog-first
 ---
 
-## 📌 목차
-
-* TOC
-  {:toc}
-
----
-
 무려 2월 5일에 초안을 써두고도 아직 완성하지 못해 방치했던 포스팅을
 2월 23일이 되어서야 다시 수정하고 있다.
 
